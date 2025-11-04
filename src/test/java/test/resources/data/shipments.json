@@ -1,0 +1,20 @@
+[
+  {
+    "trackingNumber": "7234258",
+    "provider": "Bosta",
+    "isEditableShipment": false,
+    "isOnlinePaymentFeatureEnabled": true
+  },
+  {
+    "trackingNumber": "9442984",
+    "provider": "Bosta",
+    "isEditableShipment": false,
+    "isOnlinePaymentFeatureEnabled": true
+  },
+  {
+    "trackingNumber": "1094442",
+    "provider": "Bosta",
+    "isEditableShipment": false,
+    "isOnlinePaymentFeatureEnabled": true
+  }
+]

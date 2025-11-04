@@ -16,28 +16,24 @@ The tests target the API's endpoints, ensuring they function as expected.
 ## Getting Started
 
 1. **Clone the Repository**:
-   Clone the repository to your local machine using:
    ```perl
    git clone <repository_url>
 
 2. **Navigate to Project Directory**:
-   Go to the project folder:
    ```perl
    cd <project_directory>
 
 3. **Install Dependencies**:
-   Ensure that all necessary dependencies are installed by executing:
    ```perl
    .\mvnw clean install
 
 4. **Run Tests**:
-   To start running the tests, execute the following command:
    ```perl
    .\mvnw clean test
    
 ## Test Reports
 
-Once the tests have finished executing, a summary report will be generated. You can find the report at the following path:
+Once the tests have finished executing, a summary report will be generated. Report could be found at the following path:
 
 > Note: The actual path may vary depending on the disk letter assigned to project.\
 > For example, on a typical Windows setup, the path could look like:
@@ -48,7 +44,7 @@ Once the tests have finished executing, a summary report will be generated. You 
 Replace `C:` with the appropriate disk letter where the project is located.\
 Check the report path from the console output as it will print the exact path to the report.
 
-Open the `karate-summary.html` file in your browser to review the test results.
+Open the `karate-summary.html` file in browser of a choice to review the test results.
 
 ---
 

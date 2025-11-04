@@ -1,4 +1,4 @@
-# Karate Testing Framework for Bosta tracking service API
+# Karate Testing Framework for APIs for Bosta tracking service.
 
 This project contains automated tests written with the **Karate testing framework** to test the **Bosta tracking service**. The tests validate the functionality of the API, which are described in the [APIs for Bosta tracking service](https://tracking.bosta.co/docs).
 

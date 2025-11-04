@@ -44,7 +44,7 @@ Once the tests have finished executing, a summary report will be generated. Repo
 Replace `C:` with the appropriate disk letter where the project is located.\
 Check the report path from the console output as it will print the exact path to the report.
 
-Open the `karate-summary.html` file in browser of a choice to review the test results.
+Open the `karate-summary.html` file in the browser of choice to review the test results.
 
 ---
 

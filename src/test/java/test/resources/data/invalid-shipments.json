@@ -1,0 +1,32 @@
+[
+  {
+    "trackingNumber": 6636234,
+    "testName": "Nonexisting shipment..",
+    "error": "Invalid tracking number!",
+    "status": "Not Found."
+  },
+  {
+    "trackingNumber": 0,
+    "testName": "Small tracking number..",
+    "error": "Invalid tracking number!",
+    "status": "Not Found."
+  },
+  {
+    "trackingNumber": "     ",
+    "testName": "Empty spaces tracking number..",
+    "error": "Invalid tracking number!",
+    "status": "Not Found."
+  },
+  {
+    "trackingNumber": "45899781722374102347810238741023948712039487102394871290384712754619278461238470546",
+    "testName": "Long tracking number..",
+    "error": "Invalid tracking number!",
+    "status": "Not Found."
+  },
+  {
+    "trackingNumber": "72342AB",
+    "testName": "Incorrect tracking number..",
+    "error": "Invalid tracking number!",
+    "status": "Not Found."
+  }
+]

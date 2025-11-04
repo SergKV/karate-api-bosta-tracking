@@ -1,5 +1,5 @@
 @ignore
-Feature: re-usable feature validate single shipment
+Feature: re-usable feature validate single valid shipment
 
 Background:
     * url 'https://tracking.bosta.co/shipments/track'

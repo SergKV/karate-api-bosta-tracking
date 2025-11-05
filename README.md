@@ -25,7 +25,7 @@ The tests target the API's endpoints, ensuring they function as expected.
 
 3. **Install Dependencies**:
    ```perl
-   .\mvnw clean install
+   .\mvnw compile
 
 4. **Run Tests**:
    ```perl
